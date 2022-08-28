@@ -1,1 +1,1 @@
-# Covid_Pneumonia
+# Covid_Pneumonia_Detector
