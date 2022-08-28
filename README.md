@@ -33,7 +33,7 @@ Well, after adding the path of the X-RAY image and running the trained model if 
 
 •	kaggle
 
-## related pics
+## Related Pics
 ![image](https://user-images.githubusercontent.com/85439772/187086397-9fd13abb-a549-4d16-a718-e445a4aa5955.png)
 
 ![image](https://user-images.githubusercontent.com/85439772/187086402-bd7226a0-5727-4d03-9f5a-ef479de65b67.png)
